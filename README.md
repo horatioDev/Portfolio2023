@@ -11,7 +11,7 @@ Welcome to the GitHub repository for my personal portfolio! This project showcas
 - [License](#license)
 
 ## Live Demo
-Visit the live portfolio at [your-portfolio-link.com](https://your-portfolio-link.com).
+Visit the live portfolio at [your-portfolio-link.com](https://horatio-portfolio.netlify.app/).
 
 ## Features
 - **Responsive Design:** Optimized for a seamless experience across various devices.
