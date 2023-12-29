@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Kavivanar-Regular
+font link: https://fonts.google.com/specimen/Kavivanar
+font author: Tharique Azeez
+font author site: http://thariqueazeez.com/
+Slogan Font: WorkSans-Light.ttf
+
+icon designer: Mayene de La Cruz
+icon designer link: /mayene
+        
+{"bg":"#E9E6E6","icon-gradient-0":"#6A4F4C","icon-gradient-1":"#A0A29B","font":"#2B2625","slogan":"#3f3a39"}
+      
