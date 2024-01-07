@@ -1,6 +1,6 @@
 # Horatio Hanley Portfolio
 
-Welcome to the GitHub repository for my personal portfolio! This project showcases my skills, projects, and experiences in the field of [Your Field or Industry]. Whether you're a potential employer, collaborator, or just curious, feel free to explore and get to know more about me.
+Welcome to the GitHub repository for my personal portfolio! This project showcases my skills, projects, and experiences in the field of Software Engineering. Whether you're a potential employer, collaborator, or just curious, feel free to explore and get to know more about me.
 
 ## Table of Contents
 - [Live Demo](#live-demo)
